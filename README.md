@@ -317,7 +317,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 
 | Year | Venue | Acronym | Paper | Project | Repo@GitHub |
 |------|-------|---------|-------|---------|-------------|
-| 2023 | arXiv | GAIA-1 | [GAIA-1: A Generative World Model for Autonomous Driving](https://arxiv.org/abs/2309.17080) |  |  |
+| 2023 | arXiv | GAIA-1 | [GAIA-1: A Generative World Model for Autonomous Driving](https://arxiv.org/abs/2309.17080) | [![link](https://img.shields.io/badge/Website-9cf)](https://anthonyhu.github.io/gaia1) |  |
 | 2024 | ICLR | MagicDrive | [MagicDrive: Street View Generation with Diverse 3D Geometry Control](https://arxiv.org/abs/2310.02601) | [![link](https://img.shields.io/badge/Website-9cf)](https://gaoruiyuan.com/magicdrive/) | [![GitHub](https://img.shields.io/github/stars/cure-lab/MagicDrive?style=social)](https://github.com/cure-lab/MagicDrive) |
 | 2024 | CVPR | Panacea | [Panacea: Panoramic and Controllable Video Generation for Autonomous Driving](https://arxiv.org/abs/2311.16813) | [![link](https://img.shields.io/badge/Website-9cf)](https://panacea-ad.github.io/) | [![GitHub](https://img.shields.io/github/stars/wenyuqing/panacea?style=social)](https://github.com/wenyuqing/panacea) |
 | 2024 | CVPR | Drive-WM | [Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving](https://arxiv.org/abs/2311.17918) | [![link](https://img.shields.io/badge/Website-9cf)](https://drive-wm.github.io/) | [![GitHub](https://img.shields.io/github/stars/BraveGroup/Drive-WM?style=social)](https://github.com/BraveGroup/Drive-WM) |
