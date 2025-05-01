@@ -42,35 +42,35 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 
 | Year | Venue | Acronym | Paper | Project | Repo@GitHub |
 |------|-------|---------|-------|---------|-------------|
-| 1988 | SIGGRAPH |  | [Terrain simulation using a model of stream erosion](https://dl.acm.org/doi/10.1145/378456.378519) |  |  |
-| 1989 | SIGGRAPH |  | [The synthesis and rendering of eroded fractal terrains](https://dl.acm.org/doi/10.1145/74334.74337) |  |  |
-| 1993 | Graphics Interface |  | [Fractal Model of Mountains with Rivers](https://www.algorithmicbotany.org/papers/mountains.gi93.pdf) | [![link](https://img.shields.io/badge/Website-9cf)](https://algorithmicbotany.org/papers/mountains.gi93.html) |  |
-| 1998 | SIGGRAPH |  | [Realistic modeling and rendering of plant ecosystems](http://www.graphics.stanford.edu/papers/ecosys/ecosys.pdf) | [![link](https://img.shields.io/badge/Website-9cf)](http://www.graphics.stanford.edu/papers/ecosys/) |  |
-| 2001 | SIGGRAPH | CityEngine | [Procedural modeling of cities](https://cgl.ethz.ch/Downloads/Publications/Papers/2001/p_Par01.pdf) |  |  |
-| 2005 | VRST |  | [Modeling Landscapes with Ridges and Rivers](https://expreg.org/amsi/C/articles/fbelhadj_200511.pdf) |  |  |
-| 2006 | TOG |  | [Procedural modeling of buildings](https://dl.acm.org/doi/10.1145/1141911.1141931) |  |  |
-| 2007 | GDTW | Citygen | [Citygen: An Interactive System for Procedural City Generation](https://www.citygen.net/files/citygen_gdtw07.pdf) |  |  |
-| 2007 | SI3D |  | [Example-based model synthesis](https://paulmerrell.org/model_synthesis.pdf) |  |  |
-| 2007 | TVCG |  | [Terrain Synthesis from Digital Elevation Models](http://terrainsynthesis.org/) |  |  |
-| 2008 | TOG |  | [Continuous model synthesis](https://paulmerrell.org/wp-content/uploads/2021/06/continuous.pdf) |  |  |
-| 2009 | CGF |  | [Arches: a Framework for Modeling Complex Terrains](https://perso.liris.cnrs.fr/eric.galin/Articles/2009-arches.pdf) |  |  |
-| 2009 | CGF |  | [Interactive Geometric Simulation of 4D Cities](https://peterwonka.net/Publications/pdfs/2009.EG.Weber.UrbanSimulation.FinalVersion.pdf) |  |  |
-| 2009 | TOG |  | [Interactive design of urban spaces using geometrical and behavioral modeling](https://www.cs.purdue.edu/cgvlab/www/resources/papers/Vanegas-2009-Interactive_Design_of_Urban_Spaces_Using_Geometrical_and_Behavio.pdf) |  |  |
-| 2011 | SI3D |  | [Urban Ecosystem Design](https://www.cs.purdue.edu/cgvlab/www/publications/Benes11I3D/) |  |  |
-| 2011 | TOG |  | [Metropolis procedural modeling.](https://vladlen.info/publications/metropolis-procedural-modeling/) |  |  |
-| 2012 | TOG |  | [Inverse design of urban procedural models](http://www.ignaciogarciadorado.com/p/2012_SIGA/2012_SIGA.html) |  |  |
-| 2013 | TOG |  | [Terrain Generation Using Procedural Models Based on Hydrology](https://hal.science/hal-01339224) |  |  |
-| 2015 | TOG | WorldBrush | [WorldBrush: Interactive Example-Based Synthesis of Procedural Virtual Worlds](https://www.cs.purdue.edu/cgvlab/www/publications/Emilien15ToG/) |  |  |
-| 2016 | 3DV |  | [Proceduralization for Editing 3D Architectural Models](https://www.cs.purdue.edu/cgvlab/www/resources/papers/Demir-2016-Proceduralization_for_editing_3d_architectural_models.pdf) |  |  |
-| 2016 | CGF |  | [Example-Driven Procedural Urban Roads](http://www.ignaciogarciadorado.com/p/2015_CGF/2015_CGF_ExampleRoads.pdf) |  |  |
-| 2017 | TOG |  | [Authoring landscapes by combining ecosystem and terrain erosion simulation](https://dl.acm.org/doi/abs/10.1145/3072959.3073667) |  |  |
-| 2019 | TOG |  | [Synthetic silviculture: multi-scale modeling of plant ecosystems](https://storage.googleapis.com/pirk.io/papers/Makowski.etal-2019-Synthetic-Silviculture.pdf) |  |  |
-| 2021 | TOG |  | [Authoring Consistent Landscapes with Flora and Fauna](https://www-sop.inria.fr/reves/Basilic/2021/ECCMMBC21/Authoring_Consistent_Landscapes_with_Flora_and_Fauna.pdf) |  |  |
-| 2022 | TOG | Ecoclimates | [Ecoclimates: Climate-Response Modeling of Vegetation](https://storage.googleapis.com/pirk.io/projects/ecoclimates/index.html) |  |  |
+| 1988 | SIGGRAPH |  | [Terrain simulation using a model of stream erosion](https://doi.org/10.1145/378456.378519) |  |  |
+| 1989 | SIGGRAPH |  | [The synthesis and rendering of eroded fractal terrains](https://doi.org/10.1145/74334.74337) |  |  |
+| 1993 | Graphics Interface |  | [A fractal model of mountains and rivers](https://doi.org/10.20380/GI1993.26) |  |  |
+| 1998 | SIGGRAPH |  | [Realistic modeling and rendering of plant ecosystems](https://doi.org/10.1145/280814.280898) |  |  |
+| 2001 | SIGGRAPH | CityEngine | [Procedural modeling of cities](https://doi.org/10.1145/383259.383292) |  |  |
+| 2005 | VRST |  | [Modeling Landscapes with Ridges and Rivers](https://doi.org/10.1145/1101616.1101648) |  |  |
+| 2006 | TOG |  | [Procedural modeling of buildings](https://doi.org/10.1145/1141911.1141931) |  |  |
+| 2007 | GDTW | Citygen | [Citygen: An Interactive System for Procedural City Generation](https://www.citygen.net/files/citygen_gdtw07.pdf) | [![link](https://img.shields.io/badge/Website-9cf)](https://www.citygen.net/2007/12/GDTW-Paper) |  |
+| 2007 | I3D |  | [Example-based model synthesis](https://doi.org/10.1145/1230100.1230119) | [![link](https://img.shields.io/badge/Website-9cf)](https://paulmerrell.org/model-synthesis) | [![GitHub](https://img.shields.io/github/stars/merrell42/model-synthesis?style=social)](https://github.com/merrell42/model-synthesis) |
+| 2007 | TVCG |  | [Terrain Synthesis from Digital Elevation Models](https://doi.org/10.1109/TVCG.2007.1027) | [![link](https://img.shields.io/badge/Website-9cf)](http://terrainsynthesis.org/) |  |
+| 2008 | TOG |  | [Continuous model synthesis](https://doi.org/10.1145/1409060.1409111) | [![link](https://img.shields.io/badge/Website-9cf)](http://gamma.cs.unc.edu/synthesis/) |  |
+| 2009 | CGF |  | [Arches: a Framework for Modeling Complex Terrains](https://doi.org/10.1111/j.1467-8659.2009.01385.x) |  |  |
+| 2009 | CGF |  | [Interactive Geometric Simulation of 4D Cities](https://doi.org/10.1111/j.1467-8659.2009.01387.x) |  |  |
+| 2009 | TOG |  | [Interactive design of urban spaces using geometrical and behavioral modeling](https://doi.org/10.1145/1618452.1618457) |  |  |
+| 2011 | SI3D |  | [Urban Ecosystem Design](https://doi.org/10.1145/1944745.1944773) |  |  |
+| 2011 | TOG |  | [Metropolis procedural modeling](https://doi.org/10.1145/1944846.1944851) | [![link](https://img.shields.io/badge/Website-9cf)](https://vladlen.info/publications/metropolis-procedural-modeling/) |  |
+| 2012 | TOG |  | [Inverse design of urban procedural models](https://doi.org/10.1145/2366145.2366187) | [![link](https://img.shields.io/badge/Website-9cf)](http://www.ignaciogarciadorado.com/p/2012_SIGA/2012_SIGA.html) |  |
+| 2013 | TOG |  | [Terrain Generation Using Procedural Models Based on Hydrology](https://doi.org/10.1145/2461912.2461996) |  |  |
+| 2015 | TOG | WorldBrush | [WorldBrush: Interactive Example-Based Synthesis of Procedural Virtual Worlds](https://doi.org/10.1145/2766975) |  |  |
+| 2016 | CGF |  | [Example-Driven Procedural Urban Roads](https://doi.org/10.1111/cgf.12728) |  |  |
+| 2016 | 3DV |  | [Proceduralization for Editing 3D Architectural Models](https://doi.org/10.1109/3DV.2016.28) |  |  |
+| 2017 | TOG |  | [Authoring landscapes by combining ecosystem and terrain erosion simulation](https://doi.org/10.1145/3072959.3073667) |  |  |
+| 2019 | TOG |  | [Synthetic silviculture: multi-scale modeling of plant ecosystems](https://doi.org/10.1145/3306346.3323039) | [![link](https://img.shields.io/badge/Website-9cf)](https://storage.googleapis.com/pirk.io/projects/synthetic_silviculture/index.html) |  |
+| 2021 | TOG |  | [Authoring Consistent Landscapes with Flora and Fauna](https://doi.org/10.1145/3450626.3459952) | [![link](https://img.shields.io/badge/Website-9cf)](https://www-sop.inria.fr/reves/Basilic/2021/ECCMMBC21/)  |  |
+| 2022 | TOG | Ecoclimates | [Ecoclimates: Climate-Response Modeling of Vegetation](https://doi.org/10.1145/3528223.3530146) | [![link](https://img.shields.io/badge/Website-9cf)](https://storage.googleapis.com/pirk.io/projects/ecoclimates/) |  |
 | 2023 | CVPR | Infinigen | [Infinite Photorealistic Worlds using Procedural Generation](https://arxiv.org/abs/2306.09310) | [![link](https://img.shields.io/badge/Website-9cf)](https://infinigen.org/) | [![GitHub](https://img.shields.io/github/stars/princeton-vl/infinigen?style=social)](https://github.com/princeton-vl/infinigen) |
-| 2023 | TOG |  | [Forming Terrains by Glacial Erosion](https://dl.acm.org/doi/abs/10.1145/3592422) |  |  |
-| 2023 | TOG |  | [Large-scale terrain authoring through interactive erosion simulation](https://hal.science/hal-04361019/document) |  |  |
-| 2023 | TOG |  | [Authoring and Simulating Meandering Rivers](https://hal.science/hal-04227965) |  |  |
+| 2023 | TOG |  | [Forming Terrains by Glacial Erosion](https://doi.org/10.1145/3592422) | [![link](https://img.shields.io/badge/Website-9cf)](https://www-sop.inria.fr/reves/Basilic/2023/CJPBCBGGG23/) |  |
+| 2023 | TOG |  | [Large-scale terrain authoring through interactive erosion simulation](https://doi.org/10.1145/3592787) |  |  [![GitHub](https://img.shields.io/github/stars/H-Schott/StreamPowerErosion?style=social)](https://github.com/H-Schott/StreamPowerErosion) |
+| 2023 | TOG |  | [Authoring and Simulating Meandering Rivers](https://doi.org/10.1145/3618350) | [![link](https://img.shields.io/badge/Website-9cf)](https://aparis69.github.io/public_html/projects/paris2023_Meanders.html) | [![GitHub](https://img.shields.io/github/stars/aparis69/Meandering-rivers?style=social)](https://aparis69.github.io/public_html/projects/paris2023_Meanders.html) |
 
 ### Optimization-based Generation
 
@@ -101,8 +101,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2024 | ECCV | AnyHome | [AnyHome: Open-Vocabulary Generation of Structured and Textured 3D Homes](https://arxiv.org/abs/2312.06644) | [![link](https://img.shields.io/badge/Website-9cf)](https://ivl.cs.brown.edu/research/anyhome) | [![GitHub](https://img.shields.io/github/stars/FreddieRao/anyhome_github?style=social)](https://github.com/FreddieRao/anyhome_github) |
 | 2024 | ECCV | SceneTeller | [SceneTeller: Language-to-3D Scene Generation](https://arxiv.org/abs/2407.20727) | [![link](https://img.shields.io/badge/Website-9cf)](https://sceneteller.github.io/) | [![GitHub](https://img.shields.io/github/stars/sceneteller/SceneTeller?style=social)](https://github.com/sceneteller/SceneTeller) |
 | 2024 | ICML | SceneCraft | [SceneCraft: An LLM Agent for Synthesizing 3D Scenes as Blender Code](https://arxiv.org/abs/2403.01248) |  |  |
-| 2024 | MM |  | [Controllable Procedural Generation of Landscapes](https://dl.acm.org/doi/10.1145/3664647.3681129) |  | [![GitHub](https://img.shields.io/github/stars/omegafantasy/ControllableLandscape?style=social)](https://github.com/omegafantasy/ControllableLandscape) |
-| 2024 | SIGGRAPH Asia | DIScene | [DIScene: Object Decoupling and Interaction Modeling for Complex Scene Generation](https://dl.acm.org/doi/pdf/10.1145/3680528.3687589) | [![link](https://img.shields.io/badge/Website-9cf)](https://dl.acm.org/doi/full/10.1145/3680528.3687589) |  |
+| 2024 | MM |  | [Controllable Procedural Generation of Landscapes](https://doi.org/10.1145/3664647.3681129) |  | [![GitHub](https://img.shields.io/github/stars/omegafantasy/ControllableLandscape?style=social)](https://github.com/omegafantasy/ControllableLandscape) |
+| 2024 | SIGGRAPH Asia | DIScene | [DIScene: Object Decoupling and Interaction Modeling for Complex Scene Generation](https://doi.org/pdf/10.1145/3680528.3687589) | [![link](https://img.shields.io/badge/Website-9cf)](https://doi.org/full/10.1145/3680528.3687589) |  |
 | 2024 | arXiv |  | [Open-Universe Indoor Scene Generation using LLM Program Synthesis and Uncurated Object Databases](https://arxiv.org/abs/2403.09675) |  |  |
 | 2024 | arXiv | SceneX | [SceneX: Procedural Controllable Large-scale Scene Generation](https://arxiv.org/abs/2403.15698) | [![link](https://img.shields.io/badge/Website-9cf)](https://zhouzq1.github.io/SceneX/) | [![GitHub](https://img.shields.io/github/stars/zhouzq1/SceneX?style=social)](https://github.com/zhouzq1/SceneX) |
 | 2024 | arXiv | I-Design | [I-Design: Personalized LLM Interior Designer](https://arxiv.org/abs/2404.02838) | [![link](https://img.shields.io/badge/Website-9cf)](https://atcelen.github.io/I-Design/) | [![GitHub](https://img.shields.io/github/stars/atcelen/IDesign?style=social)](https://github.com/atcelen/IDesign/) |
@@ -121,7 +121,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 
 | Year | Venue | Acronym | Paper | Project | Repo@GitHub |
 |------|-------|---------|-------|---------|-------------|
-| 2018 | SIGGRAPH | DeepSynth | [Deep Convolutional Priors for Indoor Scene Synthesis](https://msavva.github.io/files/deepsynth.pdf) | [![link](https://img.shields.io/badge/Website-9cf)](https://dl.acm.org/doi/10.1145/3197517.3201362) | [![GitHub](https://img.shields.io/github/stars/brownvc/deep-synth?style=social)](https://github.com/brownvc/deep-synth) |
+| 2018 | SIGGRAPH | DeepSynth | [Deep Convolutional Priors for Indoor Scene Synthesis](https://msavva.github.io/files/deepsynth.pdf) | [![link](https://img.shields.io/badge/Website-9cf)](https://doi.org/10.1145/3197517.3201362) | [![GitHub](https://img.shields.io/github/stars/brownvc/deep-synth?style=social)](https://github.com/brownvc/deep-synth) |
 | 2019 | CVPR | FastSynth | [Fast and Flexible Indoor Scene Synthesis via Deep Convolutional Generative Models](https://arxiv.org/abs/1811.12463) |  | [![GitHub](https://img.shields.io/github/stars/brownvc/fast-synth?style=social)](https://github.com/brownvc/fast-synth) |
 | 2020 | SIGGRAPH |  | [Deep Generative Modeling for Scene Synthesis via Hybrid Representations](https://arxiv.org/abs/1808.02084) |  |  |
 | 2021 | 3DV | SceneFormer | [SceneFormer: Indoor Scene Generation with Transformers](https://arxiv.org/abs/2012.09793) | [![link](https://img.shields.io/badge/Website-9cf)](https://xinpeng-wang.github.io/sceneformer/) | [![GitHub](https://img.shields.io/github/stars/cy94/sceneformer?style=social)](https://github.com/cy94/sceneformer) |
@@ -151,12 +151,12 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | Year | Venue | Acronym | Paper | Project | Repo@GitHub |
 |------|-------|---------|-------|---------|-------------|
 | 2014 | EMNLP |  | [Learning Spatial Knowledge for Text to 3D Scene Generation](https://aclanthology.org/D14-1217/) |  |  |
-| 2016 | CGF |  | [Learning 3D Scene Synthesis from Annotated RGB-D Images](https://www2.cs.sfu.ca/~haoz/pubs/zeinab_sgp16_scene.pdf) |  |  |
+| 2016 | CGF |  | [Learning 3D Scene Synthesis from Annotated RGB-D Images](https://doi.org/10.1111/cgf.12976) |  |  |
 | 2017 | TOG |  | [Adaptive synthesis of indoor scenes via activity-associated object relation graphs]() |  |  |
-| 2018 | TOG |  | [Language-Driven Synthesis of 3D Scenes from Scene Databases](https://dl.acm.org/doi/10.1145/3272127.3275035) | [![link](https://img.shields.io/badge/Website-9cf)](https://manyili12345.github.io/Publication/2018/T2S/index.html) |  |
+| 2018 | TOG |  | [Language-Driven Synthesis of 3D Scenes from Scene Databases](https://doi.org/10.1145/3272127.3275035) | [![link](https://img.shields.io/badge/Website-9cf)](https://manyili12345.github.io/Publication/2018/T2S/index.html) |  |
 | 2019 | ICCV | Meta-Sim | [Meta-Sim: Learning to Generate Synthetic Datasets](https://arxiv.org/abs/1904.11621) | [![link](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/toronto-ai/meta-sim/) | [![GitHub](https://img.shields.io/github/stars/nv-tlabs/meta-sim?style=social)](https://github.com/nv-tlabs/meta-sim) |
 | 2019 | SIGGRAPH | GRAINS | [GRAINS: Generative Recursive Autoencoders for INdoor Scenes](https://arxiv.org/abs/1807.09193) | [![link](https://img.shields.io/badge/Website-9cf)](https://manyili12345.github.io/Publication/2018/GRAINS/index.html) | [![GitHub](https://img.shields.io/github/stars/ManyiLi12345/GRAINS?style=social)](https://github.com/ManyiLi12345/GRAINS) |
-| 2019 | SIGGRAPH | PlanIT | [PlanIT: Planning and Instantiating Indoor Scenes with Relation Graph and Spatial Prior Networks](https://dl.acm.org/doi/10.1145/3306346.3322941) |  | [![GitHub](https://img.shields.io/github/stars/brownvc/planit?style=social)](https://github.com/brownvc/planit) |
+| 2019 | SIGGRAPH | PlanIT | [PlanIT: Planning and Instantiating Indoor Scenes with Relation Graph and Spatial Prior Networks](https://doi.org/10.1145/3306346.3322941) |  | [![GitHub](https://img.shields.io/github/stars/brownvc/planit?style=social)](https://github.com/brownvc/planit) |
 | 2020 | CVPR | 3D-SLN | [End-to-End Optimization of Scene Layout](https://arxiv.org/abs/2007.11744) | [![link](https://img.shields.io/badge/Website-9cf)](http://3dsln.csail.mit.edu/) | [![GitHub](https://img.shields.io/github/stars/aluo-x/3D_SLN?style=social)](https://github.com/aluo-x/3D_SLN) |
 | 2020 | ECCV | Meta-Sim 2 | [Meta-Sim 2 Unsupervised Learning of Scene Structure for Synthetic Data Generation](https://arxiv.org/abs/2008.09092) | [![link](https://img.shields.io/badge/Website-9cf)](https://amlankar.github.io/publication/meta-sim2/) | [![GitHub](https://img.shields.io/github/stars/nv-tlabs/meta-sim-structure?style=social)](https://github.com/nv-tlabs/meta-sim-structure) |
 | 2021 | ICCV | Graph-to-3D | [Graph-to-3D: End-to-End Generation and Manipulation of 3D Scenes Using Scene Graphs](https://arxiv.org/abs/2108.08841) | [![link](https://img.shields.io/badge/Website-9cf)](https://he-dhamo.github.io/Graphto3D/) | [![GitHub](https://img.shields.io/github/stars/he-dhamo/graphto3d?style=social)](https://github.com/he-dhamo/graphto3d) |
@@ -379,7 +379,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2024 | MM | SceneExpander | [SceneExpander: Real-Time Scene Synthesis for Interactive Floor Plan Editing](https://openreview.net/pdf?id=V5HU1OvHnx) |  | [![GitHub](https://img.shields.io/github/stars/Shao-Kui/3DScenePlatform?tab=readme-ov-file#sceneexpander?style=social)](https://github.com/Shao-Kui/3DScenePlatform?tab=readme-ov-file#sceneexpander) |
 | 2024 | NeurIPS | Neural Assets | [Neural Assets: 3D-Aware Multi-Object Scene Synthesis with Image Diffusion Models](https://arxiv.org/abs/2406.09292) | [![link](https://img.shields.io/badge/Website-9cf)](https://neural-assets.github.io/) |  |
 | 2024 | NeurIPS | DeBaRA | [DeBaRA: Denoising-Based 3D Room Arrangement Generation](https://arxiv.org/abs/2409.18336) |  |  |
-| 2024 | SIGGRAPH Asia | InstanceTex | [InstanceTex: Instance-level Controllable Texture Synthesis for 3D Scenes via Diffusion Priors](https://dl.acm.org/doi/10.1145/3680528.3687633) | [![link](https://img.shields.io/badge/Website-9cf)](https://vcc.tech/research/2024/InstanceTex) |  |
+| 2024 | SIGGRAPH Asia | InstanceTex | [InstanceTex: Instance-level Controllable Texture Synthesis for 3D Scenes via Diffusion Priors](https://doi.org/10.1145/3680528.3687633) | [![link](https://img.shields.io/badge/Website-9cf)](https://vcc.tech/research/2024/InstanceTex) |  |
 | 2024 | TVCG | SceneDirector | [SceneDirector: Interactive Scene Synthesis by Simultaneously Editing Multiple Objects in Real-Time](https://cg.cs.tsinghua.edu.cn/papers/TVCG-2024-SceneDirector.pdf) |  | [![GitHub](https://img.shields.io/github/stars/Shao-Kui/3DScenePlatform#scenedirector?style=social)](https://github.com/Shao-Kui/3DScenePlatform#scenedirector) |
 | 2024 | VR | DreamSpace | [DreamSpace: Dreaming Your Room Space with Text-Driven Panoramic Texture Propagation](https://arxiv.org/abs/2310.13119) | [![link](https://img.shields.io/badge/Website-9cf)](https://ybbbbt.com/publication/dreamspace/) | [![GitHub](https://img.shields.io/github/stars/ybbbbt/dreamspace?style=social)](https://github.com/ybbbbt/dreamspace) |
 | 2025 | CVPR | RoomPainter | [RoomPainter: View-Integrated Diffusion for Consistent Indoor Scene Texturing](https://arxiv.org/abs/2412.16778) |  |  |
@@ -456,3 +456,4 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | CVPR | DrivingSphere | [DrivingSphere: Building a High-fidelity 4D World for Closed-loop Simulation](https://arxiv.org/abs/2411.11252) | [![link](https://img.shields.io/badge/Website-9cf)](https://yanty123.github.io/DrivingSphere/) | [![GitHub](https://img.shields.io/github/stars/yanty123/DrivingSphere?style=social)](https://github.com/yanty123/DrivingSphere) |
 | 2025 | ICLR | GLAD | [Glad: A Streaming Scene Generator for Autonomous Driving](https://arxiv.org/abs/2503.00045) |  |  |
 | 2025 | arXiv | DreamDrive | [DreamDrive: Generative 4D Scene Modeling from Street View Images](https://arxiv.org/abs/2501.00601) | [![link](https://img.shields.io/badge/Website-9cf)](https://pointscoder.github.io/DreamDrive/) |  |
+
