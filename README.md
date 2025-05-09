@@ -1,6 +1,6 @@
 [![Awesome Logo](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/jbhuang0604/awesome-computer-vision)
 ![Counter](https://api.infinitescript.com/badgen/count?name=hzxie/awesome/SceneGen)
-[![arXiv](https://img.shields.io/badge/arXiv-2505.00000-b31b1b.svg)](https://arxiv.org/abs/2505.00000)
+[![arXiv](https://img.shields.io/badge/arXiv-2505.05474-b31b1b.svg)](https://arxiv.org/abs/2505.05474)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/hzxie/Awesome-3D-Scene-Generation/pulls)
 
 # Overview
@@ -8,6 +8,8 @@
 This repository collects summaries of over 300 recent studies on 3D scene generation, along with the downstream applications, and will be continuously updated.
 
 If you have suggestions for new resources, improvements to methodologies, or corrections for broken links, please don't hesitate to open an [issue](https://github.com/hzxie/Awesome-3D-Scene-Generation/issues) or submit a [pull request](https://github.com/hzxie/Awesome-3D-Scene-Generation/pulls). Contributions of all kinds are welcome and greatly appreciated.
+
+![3D-Scene-Generation-Teaser](https://github.com/user-attachments/assets/41426339-a95d-4c0c-9a69-b0f5e8953314)
 
 ### Table of Contents
 
