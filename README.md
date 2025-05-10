@@ -117,6 +117,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | CVPR | The Scene Language | [The Scene Language: Representing Scenes with Programs, Words, and Embeddings](https://arxiv.org/abs/2410.16770) | [![link](https://img.shields.io/badge/Website-9cf)](https://ai.stanford.edu/~yzzhang/projects/scene-language/) |  |
 | 2025 | arXiv | WorldCraft | [WorldCraft: Photo-Realistic 3D World Creation and Customization via LLM Agents](https://arxiv.org/abs/2502.15601) |  |  |
 | 2025 | arXiv | Cube | [Cube: A Roblox View of 3D Intelligence](https://arxiv.org/abs/2503.15475) |  | [![GitHub](https://img.shields.io/github/stars/Roblox/cube)](https://github.com/Roblox/cube) |
+| 2025 | arXiv | Scenethesis | [Scenethesis: A Language and Vision Agentic Framework for 3D Scene Generation](https://arxiv.org/abs/2505.02836) | [![link](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/scenethesis/) |  |
 
 ## Neural-3D Generation
 
@@ -377,10 +378,12 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | arXiv | UniFuture | [Seeing the Future, Perceiving the Future: A Unified Driving World Model for Future Generation and Perception](https://arxiv.org/abs/2503.13587) | [![link](https://img.shields.io/badge/Website-9cf)](https://dk-liang.github.io/UniFuture/) | [![GitHub](https://img.shields.io/github/stars/dk-liang/UniFuture)](https://github.com/dk-liang/UniFuture) |
 | 2025 | arXiv | DiST-4D | [DiST-4D: Disentangled Spatiotemporal Diffusion with Metric Depth for 4D Driving Scene Generation](https://arxiv.org/abs/2503.15208) | [![link](https://img.shields.io/badge/Website-9cf)](https://royalmelon0505.github.io/DiST-4D/) | [![GitHub](https://img.shields.io/github/stars/royalmelon0505/dist4d)](https://github.com/royalmelon0505/dist4d) |
 | 2025 | arXiv | GAIA-2 | [GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving](https://arxiv.org/abs/2503.20523) | [![link](https://img.shields.io/badge/Website-9cf)](https://wayve.ai/thinking/gaia-2/) |  |
+| 2025 | arXiv | SteerX | [SteerX: Creating Any Camera-Free 3D and 4D Scenes with Geometric Steering](https://arxiv.org/abs/2503.12024) | [![link](https://img.shields.io/badge/Website-9cf)](https://byeongjun-park.github.io/SteerX/) | [![GitHub](https://img.shields.io/github/stars/byeongjun-park/SteerX)](https://github.com/byeongjun-park/SteerX) |
 | 2025 | arXiv | WonderVerse | [WonderVerse: Extendable 3D Scene Generation with Video Generative Models](https://arxiv.org/abs/2503.09160) |  |  |
 | 2025 | arXiv | FlexWorld | [FlexWorld: Progressively Expanding 3D Scenes for Flexiable-View Synthesis](https://arxiv.org/abs/2503.13265) | [![link](https://img.shields.io/badge/Website-9cf)](https://ml-gsai.github.io/FlexWorld/) | [![GitHub](https://img.shields.io/github/stars/ML-GSAI/FlexWorld?style=social)](https://github.com/ML-GSAI/FlexWorld) |
 | 2025 | arXiv | GaussVideoDreamer | [GaussVideoDreamer: 3D Scene Generation with Video Diffusion and Inconsistency-Aware Gaussian Splatting](https://arxiv.org/abs/2504.10001) |  |  |
 | 2025 | arXiv | WORLDMEM | [WORLDMEM: Long-term Consistent World Simulation with Memory](https://arxiv.org/abs/2504.12369) | [![link](https://img.shields.io/badge/Website-9cf)](https://xizaoqu.github.io/worldmem/) | [![GitHub](https://img.shields.io/github/stars/xizaoqu/WorldMem?style=social)](https://github.com/xizaoqu/WorldMem) |
+| 2025 | arXiv | HoloTime | [HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation](https://arxiv.org/abs/2504.21650) | [![link](https://img.shields.io/badge/Website-9cf)](https://zhouhyocean.github.io/holotime/) | [![GitHub](https://img.shields.io/github/stars/PKU-YuanGroup/HoloTime)](https://github.com/PKU-YuanGroup/HoloTime) |
 
 # Applications and Tasks
 
