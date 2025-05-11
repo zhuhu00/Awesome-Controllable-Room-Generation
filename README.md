@@ -30,6 +30,10 @@ If you have suggestions for new resources, improvements to methodologies, or cor
   - [Video-based Generation](#video-based-generation)
     - [Two-stage Generation](#two-stage-generation)
     - [One-stage Generation](#one-stage-generation)
+- [Datasets](#datasets)
+    - [Indoor Datasets](#indoor-datasets)
+    - [Natural Datasets](#natural-datasets)
+    - [Urban Datasets](#urban-datasets)
 - [Applications and Tasks](#applications-and-tasks)
   - [3D Scene Editing](#3d-scene-editing)
   - [Human-Scene Interaction](#human-scene-interaction)
@@ -385,6 +389,61 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | arXiv | GaussVideoDreamer | [GaussVideoDreamer: 3D Scene Generation with Video Diffusion and Inconsistency-Aware Gaussian Splatting](https://arxiv.org/abs/2504.10001) |  |  |
 | 2025 | arXiv | WORLDMEM | [WORLDMEM: Long-term Consistent World Simulation with Memory](https://arxiv.org/abs/2504.12369) | [![link](https://img.shields.io/badge/Website-9cf)](https://xizaoqu.github.io/worldmem/) | [![GitHub](https://img.shields.io/github/stars/xizaoqu/WorldMem?style=social)](https://github.com/xizaoqu/WorldMem) |
 | 2025 | arXiv | HoloTime | [HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation](https://arxiv.org/abs/2504.21650) | [![link](https://img.shields.io/badge/Website-9cf)](https://zhouhyocean.github.io/holotime/) | [![GitHub](https://img.shields.io/github/stars/PKU-YuanGroup/HoloTime)](https://github.com/PKU-YuanGroup/HoloTime) |
+
+# Datasets
+
+## Indoor Datasets
+
+| Year | Type  | Source  | Acronym | Paper   | Project     |
+|------|-------|---------|---------|---------|-------------|
+| 2012 | Indoor, Nature | Real | SUN360 | [Recognizing scene viewpoint using panoramic place representation](https://doi.org/10.1109/CVPR.2012.6247991) | [![link](https://img.shields.io/badge/Website-9cf)](https://vision.cs.princeton.edu/projects/2012/SUN360/data/) |
+| 2012 | Indoor | Real | NYUv2 | [Indoor Segmentation and Support Inference From RGBD Images](https://doi.org//10.1007/978-3-642-33715-4_54) | [![link](https://img.shields.io/badge/Website-9cf)](https://cs.nyu.edu/~fergus/datasets/nyu_depth_v2.html) |
+| 2015 | Indoor | Real | SunRGBD | [Sun RGB-D: A RGB-D scene understanding benchmark suite](https://doi.org/10.1109/CVPR.2015.7298655) | [![link](https://img.shields.io/badge/Website-9cf)](https://rgbd.cs.princeton.edu/) |
+| 2016 | Indoor | Real | SceneNN | [SceneNN: A Scene Meshes Dataset with aNNotations](https://doi.org/10.1109/3DV.2016.18) | [![link](https://img.shields.io/badge/Website-9cf)](https://hkust-vgd.github.io/scenenn/) |
+| 2017 | Indoor | Real | 2D-3D-S | [Joint 2D-3D-Semantic Data for Indoor Scene Understanding](https://arxiv.org/abs/1702.01105) | [![link](https://img.shields.io/badge/Website-9cf)](https://github.com/alexsax/2D-3D-Semantics) |
+| 2017 | Indoor | Real | Matterport3D | [Matterport3D: Learning from RGB-D Data in Indoor Environments](https://arxiv.org/abs/1709.06158) | [![link](https://img.shields.io/badge/Website-9cf)](https://niessner.github.io/Matterport/) |
+| 2017 | Indoor | Real | ScanNet | [ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes](https://arxiv.org/abs/1702.04405) | [![link](https://img.shields.io/badge/Website-9cf)](http://www.scan-net.org/) |
+| 2017 | Indoor | Real | Laval Indoor | [Learning to Predict Indoor Illumination from a Single Image](https://arxiv.org/abs/1704.00090) | [![link](https://img.shields.io/badge/Website-9cf)](http://hdrdb.com/indoor/) |
+| 2018 | Indoor, Urban | Real | RealEstate10K | [Stereo Magnification: Learning View Synthesis using Multiplane Images](https://arxiv.org/abs/1805.09817) | [![link](https://img.shields.io/badge/Website-9cf)](https://google.github.io/realestate10k/) |
+| 2019 | Indoor | Real | Replica | [The Replica Dataset: A Digital Replica of Indoor Spaces](https://arxiv.org/abs/1906.05797) | [![link](https://img.shields.io/badge/Website-9cf)](https://github.com/facebookresearch/Replica-Dataset) |
+| 2020 | Indoor | Real | 3DSSG | [Learning 3D Semantic Scene Graphs from 3D Indoor Reconstructions](https://arxiv.org/abs/2004.03967) | [![link](https://img.shields.io/badge/Website-9cf)](https://3dssg.github.io/) |
+| 2021 | Indoor | Real | Habitat Matterport Dataset | [Habitat-Matterport 3D Dataset (HM3D): 1000 Large-scale 3D Environments for Embodied AI](https://arxiv.org/abs/2109.08238) | [![link](https://img.shields.io/badge/Website-9cf)](https://aihabitat.org/datasets/hm3d/) |
+| 2023 | Indoor | Real | ScanNet++ | [ScanNet++: A high-fidelity dataset of 3D indoor scenes](https://arxiv.org/abs/2308.11417) | [![link](https://img.shields.io/badge/Website-9cf)](https://kaldir.vc.in.tum.de/scannetpp/) |
+| 2023 | Indoor, Nature, Urban | Real | DL3DV-10K | [DL3DV-10K: A Large-Scale Scene Dataset for Deep Learning-based 3D Vision](https://arxiv.org/abs/2312.16256) | [![link](https://img.shields.io/badge/Website-9cf)](https://dl3dv-10k.github.io/DL3DV-10K/) |
+| 2012 | Indoor | Synthetic | SceneSynth | [Example-based synthesis of 3D object arrangements](https://doi.org/10.1145/2366145.2366154) | [![link](https://img.shields.io/badge/Website-9cf)](https://graphics.stanford.edu/projects/scenesynth/) |
+| 2017 | Indoor | Synthetic | SUNCG | [Semantic Scene Completion from a Single Depth Image](https://arxiv.org/abs/1611.08974) | [![link](https://img.shields.io/badge/Website-9cf)](https://sscnet.cs.princeton.edu/) |
+| 2020 | Indoor | Synthetic | Structured3D | [Structured3D: A Large Photo-realistic Dataset for Structured 3D Modeling](https://arxiv.org/abs/1908.00222) | [![link](https://img.shields.io/badge/Website-9cf)](https://structured3d-dataset.org/) |
+| 2020 | Indoor | Synthetic | Hypersim | [HyperSim: A photorealistic synthetic dataset for holistic indoor scene understanding](https://arxiv.org/abs/2011.02523) | [![link](https://img.shields.io/badge/Website-9cf)](https://github.com/apple/ml-hypersim) |
+| 2021 | Indoor | Synthetic | 3D-FRONT | [3D-FRONT: 3D Furnished Rooms with layOuts and semaNTics](https://arxiv.org/abs/2011.09127) | [![link](https://img.shields.io/badge/Website-9cf)](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-scene-dataset) |
+| 2021 | Indoor | Synthetic | 3D-Future | [3D-FUTURE: 3D Furniture shape with TextURE](https://arxiv.org/abs/2009.09633) | [![link](https://img.shields.io/badge/Website-9cf)](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-future) |
+| 2023 | Indoor | Synthetic | SG-FRONT | [CommonScenes: Generating Commonsense 3D Indoor Scenes with Scene Graph Diffusion](https://arxiv.org/abs/2305.16283) | [![link](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/commonscenes/dataset) |
+
+## Natural Datasets
+
+| Year | Type  | Source  | Acronym | Paper   | Project     |
+|------|-------|---------|---------|---------|-------------|
+| 2017 | Nature | Real | Laval  Outdoor | [Deep Sky Modeling for Single Image Outdoor Lighting Estimation](https://arxiv.org/abs/1905.03897) | [![link](https://img.shields.io/badge/Website-9cf)](http://hdrdb.com/outdoor/) |
+| 2019 | Nature | Real | LHQ | [Aligning latent and image spaces to connect the unconnectable](https://arxiv.org/abs/2104.06954) | [![link](https://img.shields.io/badge/Website-9cf)](https://skor.sh/alis) |
+| 2021 | Nature | Real | ACID | [Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image](https://arxiv.org/abs/2012.09855) | [![link](https://img.shields.io/badge/Website-9cf)](https://infinite-nature.github.io/) |
+
+## Urban Datasets
+
+| Year | Type  | Source  | Acronym | Paper   | Project     |
+|------|-------|---------|---------|---------|-------------|
+| 2012 | Urban | Real | KITTI | [Are we ready for Autonomous Driving? The KITTI Vision Benchmark Suite](https://doi.org/10.1109/CVPR.2012.6248074) | [![link](https://img.shields.io/badge/Website-9cf)](https://www.cvlibs.net/datasets/kitti/) |
+| 2016 | Urban | Real | Cityscapes | [The Cityscapes dataset for semantic urban scene understanding](https://arxiv.org/abs/1604.01685) | [![link](https://img.shields.io/badge/Website-9cf)](https://www.cityscapes-dataset.com/) |
+| 2019 | Urban | Real | Semantickitti | [SemanticKITTI: A Dataset for Semantic Scene Understanding of LiDAR Sequences](https://arxiv.org/abs/1904.01416) | [![link](https://img.shields.io/badge/Website-9cf)](https://semantic-kitti.org/) |
+| 2020 | Urban | Real | Waymo | [Scalability in Perception for Autonomous Driving: Waymo Open Dataset](https://arxiv.org/abs/1912.04838) | [![link](https://img.shields.io/badge/Website-9cf)](https://waymo.com/open/) |
+| 2020 | Urban | Real | nuscene | [nuScenes: A multimodal dataset for autonomous driving](https://arxiv.org/abs/1903.11027) | [![link](https://img.shields.io/badge/Website-9cf)](https://www.nuscenes.org/) |
+| 2023 | Urban | Real | KITTI-360 | [KITTI-360: A novel dataset and benchmarks for urban scene understanding in 2D and 3D.](https://arxiv.org/abs/2109.13410) | [![link](https://img.shields.io/badge/Website-9cf)](https://www.cvlibs.net/datasets/kitti-360/) |
+| 2020 | Urban | Real | HoliCity | [HoliCity: A city-scale data platform for learning holistic 3D structures](https://arxiv.org/abs/2008.03286) | [![link](https://img.shields.io/badge/Website-9cf)](https://holicity.io/) |
+| 2022 | Urban | Real | OmniCity | [OmniCity: Omnipotent City Understanding with Multi-level and Multi-view Images](https://arxiv.org/abs/2208.00928) | [![link](https://img.shields.io/badge/Website-9cf)](https://city-super.github.io/omnicity/) |
+| 2024 | Urban | Real | OSM | [CityDreamer: Compositional Generative Model of Unbounded 3D Cities](https://arxiv.org/abs/2309.00610) | [![link](https://img.shields.io/badge/Website-9cf)](https://gateway.infinitescript.com/s/OSM) |
+| 2024 | Urban | Real | GoogleEarth | [CityDreamer: Compositional Generative Model of Unbounded 3D Cities](https://arxiv.org/abs/2309.00610) | [![link](https://img.shields.io/badge/Website-9cf)](https://gateway.infinitescript.com/s/GoogleEarth) |
+| 2017 | Urban | Synthetic | CARLA | [CARLA: An Open Urban Driving Simulator](https://arxiv.org/abs/1711.03938) | [![link](https://img.shields.io/badge/Website-9cf)](https://carla.org/) |
+| 2022 | Urban | Synthetic | CarlaSC | [MotionSC: Data Set and Network for Real-Time Semantic Mapping in Dynamic Environments](https://arxiv.org/abs/2203.07060) | [![link](https://img.shields.io/badge/Website-9cf)](https://umich-curly.github.io/CarlaSC.github.io/) |
+| 2020 | Urban | Synthetic | Virtual-KITTI-2 | [Virtual KITTI 2](https://arxiv.org/abs/2001.10773) | [![link](https://img.shields.io/badge/Website-9cf)](https://europe.naverlabs.com/research/proxy-virtual-worlds/) |
+| 2025 | Urban | Synthetic | CityTopia | [CityDreamer4D: Compositional Generative Model of Unbounded 4D Cities](https://arxiv.org/abs/2501.08983) | [![link](https://img.shields.io/badge/Website-9cf)](https://haozhexie.com/project/city-dreamer-4d) |
 
 # Applications and Tasks
 
