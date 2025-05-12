@@ -482,9 +482,10 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2023 | SIGGRAPH | InterPhys | [Synthesizing Physical Character-Scene Interactions](https://arxiv.org/abs/2302.00883) | [![link](https://img.shields.io/badge/Website-9cf)](https://xbpeng.github.io/projects/InterPhys/index.html) |  |
 | 2024 | 3DV | InterScene | [Synthesizing Physically Plausible Human Motions in 3D Scenes](https://arxiv.org/abs/2308.09036) | [![link](https://img.shields.io/badge/Website-9cf)](https://liangpan99.github.io/InterScene/) | [![GitHub](https://img.shields.io/github/stars/liangpan99/InterScene)](https://github.com/liangpan99/InterScene) |
 | 2024 | CVPR | GenZI | [GenZI: Zero-Shot 3D Human-Scene Interaction Generation](https://arxiv.org/abs/2311.17737) | [![link](https://img.shields.io/badge/Website-9cf)](https://craigleili.github.io/projects/genzi/) |  |
-| 2024 | ICLR | UniHSI | [UniHSI: Unified Human-Scene Interaction via Prompted Chain-of-Contacts](https://arxiv.org/abs/2309.07918) | [![link](https://img.shields.io/badge/Website-9cf)](https://[craigleili.github.io/projects/genzi/](https://xizaoqu.github.io/unihsi/)) | [![GitHub](https://img.shields.io/github/stars/OpenRobotLab/UniHSI)](https://github.com/OpenRobotLab/UniHSI) |
+| 2024 | ICLR | UniHSI | [UniHSI: Unified Human-Scene Interaction via Prompted Chain-of-Contacts](https://arxiv.org/abs/2309.07918) | [![link](https://img.shields.io/badge/Website-9cf)](https://xizaoqu.github.io/unihsi/) | [![GitHub](https://img.shields.io/github/stars/OpenRobotLab/UniHSI)](https://github.com/OpenRobotLab/UniHSI) |
 | 2024 | arXiv | SIMS | [SIMS: Simulating Stylized Human-Scene Interactions with Retrieval-Augmented Script Generation](https://arxiv.org/abs/2411.19921) | [![link](https://img.shields.io/badge/Website-9cf)](https://wenjiawang0312.github.io/projects/sims/) | [![GitHub](https://img.shields.io/github/stars/WenjiaWang0312/sims-stylized_hsi)](https://github.com/WenjiaWang0312/sims-stylized_hsi) |
 | 2025 | CVPR | TokenHSI | [TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization](https://arxiv.org/abs/2503.19901) | [![link](https://img.shields.io/badge/Website-9cf)](https://liangpan99.github.io/TokenHSI/) | [![GitHub](https://img.shields.io/github/stars/liangpan99/TokenHSI)](https://github.com/liangpan99/TokenHSI) |
+
 
 ## Embodied AI
 
