@@ -390,6 +390,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | arXiv | GaussVideoDreamer | [GaussVideoDreamer: 3D Scene Generation with Video Diffusion and Inconsistency-Aware Gaussian Splatting](https://arxiv.org/abs/2504.10001) |  |  |
 | 2025 | arXiv | WORLDMEM | [WORLDMEM: Long-term Consistent World Simulation with Memory](https://arxiv.org/abs/2504.12369) | [![link](https://img.shields.io/badge/Website-9cf)](https://xizaoqu.github.io/worldmem/) | [![GitHub](https://img.shields.io/github/stars/xizaoqu/WorldMem?style=social)](https://github.com/xizaoqu/WorldMem) |
 | 2025 | arXiv | HoloTime | [HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation](https://arxiv.org/abs/2504.21650) | [![link](https://img.shields.io/badge/Website-9cf)](https://zhouhyocean.github.io/holotime/) | [![GitHub](https://img.shields.io/github/stars/PKU-YuanGroup/HoloTime)](https://github.com/PKU-YuanGroup/HoloTime) |
+| 2025 | arXiv | MineWorld | [MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft](https://arxiv.org/abs/2504.08388) |  | [![GitHub](https://img.shields.io/github/stars/microsoft/MineWorld)](https://github.com/microsoft/MineWorld) |
+| 2025 | arXiv | Matrix-Game | [Matrix-Game: Interactive World Foundation Model](https://github.com/SkyworkAI/Matrix-Game/raw/main/assets/report.pdf) | [![link](https://img.shields.io/badge/Website-9cf)](https://matrix-game-homepage.github.io/) | [![GitHub](https://img.shields.io/github/stars/SkyworkAI/Matrix-Game)](https://github.com/SkyworkAI/Matrix-Game) |
 
 # Datasets
 
@@ -505,8 +507,6 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 
 | Year | Venue | Acronym | Paper | Project | Repo@GitHub |
 |------|-------|---------|-------|---------|-------------|
-| 2022 | CoRL | TAX-Pose | [TAX-Pose: Task-Specific Cross-Pose Estimation for Robot Manipulation](https://arxiv.org/abs/2211.09325) | [![link](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/tax-pose/home) | [![GitHub](https://img.shields.io/github/stars/r-pad/taxpose)](https://github.com/r-pad/taxpose) |
-| 2023 | CoRL | GNFactor | [GNFactor: Multi-Task Real Robot Learning with Generalizable Neural Feature Fields](https://arxiv.org/abs/2308.16891) | [![link](https://img.shields.io/badge/Website-9cf)](https://yanjieze.com/GNFactor/) | [![GitHub](https://img.shields.io/github/stars/YanjieZe/GNFactor)](https://github.com/YanjieZe/GNFactor) |
 | 2023 | NeurIPS | UniPi | [Learning Universal Policies via Text-Guided Video Generation](https://arxiv.org/abs/2302.00111) | [![link](https://img.shields.io/badge/Website-9cf)](https://universal-policy.github.io/unipi/) |  |
 | 2023 | NeurIPS | HiP | [Compositional Foundation Models for Hierarchical Planning](https://arxiv.org/abs/2309.08587) | [![link](https://img.shields.io/badge/Website-9cf)](https://hierarchical-planning-foundation-model.github.io/) | [![GitHub](https://img.shields.io/github/stars/anuragajay/hip)](https://github.com/anuragajay/hip) |
 | 2024 | CoRL | Imagination Policy | [Imagination Policy: Using Generative Point Cloud Models for Learning Manipulation Policies](https://arxiv.org/abs/2406.11740) | [![link](https://img.shields.io/badge/Website-9cf)](https://haojhuang.github.io/imagine_page/) | [![GitHub](https://img.shields.io/github/stars/HaojHuang/imagination-policy-cor24)](https://github.com/HaojHuang/imagination-policy-cor24) |
