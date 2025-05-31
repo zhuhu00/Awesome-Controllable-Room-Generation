@@ -123,6 +123,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | arXiv | WorldCraft | [WorldCraft: Photo-Realistic 3D World Creation and Customization via LLM Agents](https://arxiv.org/abs/2502.15601) |  |  |
 | 2025 | arXiv | Cube | [Cube: A Roblox View of 3D Intelligence](https://arxiv.org/abs/2503.15475) |  | [![GitHub](https://img.shields.io/github/stars/Roblox/cube)](https://github.com/Roblox/cube) |
 | 2025 | arXiv | Scenethesis | [Scenethesis: A Language and Vision Agentic Framework for 3D Scene Generation](https://arxiv.org/abs/2505.02836) | [![link](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/scenethesis/) |  |
+| 2025 | arXiv |  | [Agentic 3D Scene Generation with Spatially Contextualized VLMs](https://arxiv.org/abs/2505.20129) |  |  |
 
 ## Neural-3D Generation
 
@@ -397,6 +398,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | arXiv | GameFactory | [GameFactory: Creating New Games with Generative Interactive Videos](https://arxiv.org/abs/2501.08325) | [![link](https://img.shields.io/badge/Website-9cf)](https://yujiwen.github.io/gamefactory/) | [![GitHub](https://img.shields.io/github/stars/KwaiVGI/GameFactory)](https://github.com/KwaiVGI/GameFactory) |
 | 2025 | arXiv | Matrix-Game | [Matrix-Game: Interactive World Foundation Model](https://github.com/SkyworkAI/Matrix-Game/raw/main/assets/report.pdf) | [![link](https://img.shields.io/badge/Website-9cf)](https://matrix-game-homepage.github.io/) | [![GitHub](https://img.shields.io/github/stars/SkyworkAI/Matrix-Game)](https://github.com/SkyworkAI/Matrix-Game) |
 | 2025 | arXiv | CoGen | [CoGen: 3D Consistent Video Generation via Adaptive Conditioning for Autonomous Driving](https://arxiv.org/abs/2503.22231) | [![link](https://img.shields.io/badge/Website-9cf)](https://xiaomi-research.github.io/cogen/) |  |
+| 2025 | arXiv | WonderPlay | [WonderPlay: Dynamic 3D Scene Generation from a Single Image and Actions](https://arxiv.org/abs/2505.18151) | [![link](https://img.shields.io/badge/Website-9cf)](https://kyleleey.github.io/WonderPlay/) |  |
+
 
 # Datasets
 
