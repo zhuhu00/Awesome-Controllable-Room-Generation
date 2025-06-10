@@ -3,9 +3,9 @@
 
 # Overview
 
-This repository collects studies on 3D controllable scene generation, along with the downstream applications, and will be continuously updated.
+This repository collects studies on 3D controllable room level scene generation, along with the downstream applications, and will be continuously updated.
 
-If you have suggestions for new resources, improvements to methodologies, or corrections for broken links, please don't hesitate to open an [issue](https://github.com/hzxie/Awesome-3D-Scene-Generation/issues) or submit a [pull request](https://github.com/hzxie/Awesome-3D-Scene-Generation/pulls). Contributions of all kinds are welcome and greatly appreciated.
+If you have suggestions for new resources, improvements to methodologies, or corrections for broken links, please don't hesitate to open an [issue](https://github.com/zhuhu00/Awesome-Controllable-Room-Generation/issues) or submit a [pull request](https://github.com/zhuhu00/Awesome-Controllable-Room-Generation/pulls). Contributions of all kinds are welcome and greatly appreciated.
 
 To be updated. 
 
