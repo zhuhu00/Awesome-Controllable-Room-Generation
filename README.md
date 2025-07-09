@@ -57,25 +57,36 @@ To be updated.
 | 2007 | GDTW | Citygen | [Citygen: An Interactive System for Procedural City Generation](https://www.citygen.net/files/citygen_gdtw07.pdf) | [![link](https://img.shields.io/badge/Website-9cf)](https://www.citygen.net/2007/12/GDTW-Paper) |  |
 | 2007 | I3D |  | [Example-based model synthesis](https://doi.org/10.1145/1230100.1230119) | [![link](https://img.shields.io/badge/Website-9cf)](https://paulmerrell.org/model-synthesis) | [![GitHub](https://img.shields.io/github/stars/merrell42/model-synthesis)](https://github.com/merrell42/model-synthesis) |
 | 2007 | TVCG |  | [Terrain Synthesis from Digital Elevation Models](https://doi.org/10.1109/TVCG.2007.1027) | [![link](https://img.shields.io/badge/Website-9cf)](http://terrainsynthesis.org/) |  |
+| 2008 | CGF |  | [Real-Time Rendering and Editing of Vector-based Terrains](https://doi.org/10.1111/j.1467-8659.2008.01128.x) | [![link](https://img.shields.io/badge/Website-9cf)](https://hal.science/inria-00207679) |  |
 | 2008 | TOG |  | [Continuous model synthesis](https://doi.org/10.1145/1409060.1409111) | [![link](https://img.shields.io/badge/Website-9cf)](http://gamma.cs.unc.edu/synthesis/) |  |
+| 2008 | TOG |  | [Interactive Procedural Street Modeling](https://doi.org/10.1145/1360612.1360702) | [![link](https://img.shields.io/badge/Website-9cf)](https://www.sci.utah.edu/~chengu/street_sig08/street_project.htm) |  |
 | 2009 | CGF |  | [Arches: a Framework for Modeling Complex Terrains](https://doi.org/10.1111/j.1467-8659.2009.01385.x) |  |  |
 | 2009 | CGF |  | [Interactive Geometric Simulation of 4D Cities](https://doi.org/10.1111/j.1467-8659.2009.01387.x) |  |  |
 | 2009 | TOG |  | [Interactive design of urban spaces using geometrical and behavioral modeling](https://doi.org/10.1145/1618452.1618457) | [![youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube)](https://youtu.be/iR-UObGJ2Gs) |  |
+| 2010 | CGF |  | [Procedural Generation of Roads](https://doi.org/10.1111/j.1467-8659.2009.01612.x) |  |  |
+| 2011 | CGF |  | [Interactive Modeling of City Layouts using Layers of Procedural Content](https://doi.org/10.1111/j.1467-8659.2011.01865.x) |  |  |
 | 2011 | SI3D |  | [Urban Ecosystem Design](https://doi.org/10.1145/1944745.1944773) |  |  |
 | 2011 | TOG |  | [Metropolis procedural modeling](https://doi.org/10.1145/1944846.1944851) | [![link](https://img.shields.io/badge/Website-9cf)](https://vladlen.info/publications/metropolis-procedural-modeling/) |  |
+| 2012 | CGF |  | [Procedural Generation of Parcels in Urban Modeling](https://doi.org/10.1111/j.1467-8659.2012.03047.x) |  |  |
 | 2012 | TOG |  | [Inverse design of urban procedural models](https://doi.org/10.1145/2366145.2366187) | [![link](https://img.shields.io/badge/Website-9cf)](http://www.ignaciogarciadorado.com/p/2012_SIGA/2012_SIGA.html) |  |
 | 2013 | TOG |  | [Terrain Generation Using Procedural Models Based on Hydrology](https://doi.org/10.1145/2461912.2461996) | [![youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&)](https://youtu.be/JCsj0v-wmIM) |  |
+| 2013 | TOG | Urban Pattern | [Urban Pattern: Layout Design by Hierarchical Domain Splitting](https://doi.org/10.1145/2508363.2508405) | [![link](https://img.shields.io/badge/Website-9cf)](https://www.yongliangyang.net/projects/sitelayout/urbanpattern_siga13.html) |  |
 | 2015 | TOG | WorldBrush | [WorldBrush: Interactive Example-Based Synthesis of Procedural Virtual Worlds](https://doi.org/10.1145/2766975) | [![link](https://img.shields.io/badge/Website-9cf)](https://team.inria.fr/imagine/worldbrush-interactive-example-based-synthesis-of-procedural-virtual-worlds/) |  |
 | 2016 | CGF |  | [Example-Driven Procedural Urban Roads](https://doi.org/10.1111/cgf.12728) |  |  |
 | 2016 | 3DV |  | [Proceduralization for Editing 3D Architectural Models](https://doi.org/10.1109/3DV.2016.28) |  |  |
+| 2016 | TOG |  | [Interactive Sketching of Urban Procedural Models](https://doi.org/10.1145/2897824.2925951) | [![link](https://img.shields.io/badge/Website-9cf)](https://www.ignaciogarciadorado.com/p/2016_TOG/2016_TOG.html) |  |
 | 2017 | TOG |  | [Authoring landscapes by combining ecosystem and terrain erosion simulation](https://doi.org/10.1145/3072959.3073667) |  |  |
-| 2019 | TOG |  | [Synthetic silviculture: multi-scale modeling of plant ecosystems](https://doi.org/10.1145/3306346.3323039) | [![link](https://img.shields.io/badge/Website-9cf)](https://storage.googleapis.com/pirk.io/projects/synthetic_silviculture/index.html) |  |
+| 2017 | TOG |  | [Fast Weather Simulation for Inverse Procedural Design of 3D Urban Models](https://doi.org/10.1145/2999534) | [![link](https://img.shields.io/badge/Website-9cf)](https://www.ignaciogarciadorado.com/p/2017_TOG/2017_TOG.html) | [![GitHub](https://img.shields.io/github/stars/igarciad/weather_simulation)](https://github.com/igarciad/weather_simulation) |
+| 2017 | TOG |  | [Interactive Example-Based Terrain Authoring with Conditional Generative Adversarial Networks](https://doi.org/10.1145/3130800.3130804) | [![link](https://img.shields.io/badge/Website-9cf)](https://www.cs.purdue.edu/cgvlab/www/publications/guerin2017interactive/) |  |
+| 2019 | TOG |  | [Synthetic Silviculture: Multi-scale Modeling of Plant Ecosystems](https://doi.org/10.1145/3306346.3323039) | [![link](https://img.shields.io/badge/Website-9cf)](https://storage.googleapis.com/pirk.io/projects/synthetic_silviculture/index.html) |  |
 | 2021 | TOG |  | [Authoring Consistent Landscapes with Flora and Fauna](https://doi.org/10.1145/3450626.3459952) | [![link](https://img.shields.io/badge/Website-9cf)](https://www-sop.inria.fr/reves/Basilic/2021/ECCMMBC21/)  |  |
 | 2022 | TOG | Ecoclimates | [Ecoclimates: Climate-Response Modeling of Vegetation](https://doi.org/10.1145/3528223.3530146) | [![link](https://img.shields.io/badge/Website-9cf)](https://storage.googleapis.com/pirk.io/projects/ecoclimates/) |  |
+| 2022 | TOG |  | [Procedural Urban Forestry](https://arxiv.org/abs/2008.05567) | [![link](https://img.shields.io/badge/Website-9cf)](https://www.cs.purdue.edu/cgvlab/www/publications/Niese2022ToG/) |  |
 | 2023 | CVPR | Infinigen | [Infinite Photorealistic Worlds using Procedural Generation](https://arxiv.org/abs/2306.09310) | [![link](https://img.shields.io/badge/Website-9cf)](https://infinigen.org/) | [![GitHub](https://img.shields.io/github/stars/princeton-vl/infinigen)](https://github.com/princeton-vl/infinigen) |
 | 2023 | TOG |  | [Forming Terrains by Glacial Erosion](https://doi.org/10.1145/3592422) | [![link](https://img.shields.io/badge/Website-9cf)](https://www-sop.inria.fr/reves/Basilic/2023/CJPBCBGGG23/) |  |
-| 2023 | TOG |  | [Large-scale terrain authoring through interactive erosion simulation](https://doi.org/10.1145/3592787) | [![youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&)](https://youtu.be/gCP7jzcPLyQ) |  [![GitHub](https://img.shields.io/github/stars/H-Schott/StreamPowerErosion)](https://github.com/H-Schott/StreamPowerErosion) |
+| 2023 | TOG |  | [Large-scale terrain authoring through interactive erosion simulation](https://doi.org/10.1145/3592787) | [![youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&)](https://youtu.be/gCP7jzcPLyQ) | [![GitHub](https://img.shields.io/github/stars/H-Schott/StreamPowerErosion)](https://github.com/H-Schott/StreamPowerErosion) |
 | 2023 | TOG |  | [Authoring and Simulating Meandering Rivers](https://doi.org/10.1145/3618350) | [![link](https://img.shields.io/badge/Website-9cf)](https://aparis69.github.io/public_html/projects/paris2023_Meanders.html) | [![GitHub](https://img.shields.io/github/stars/aparis69/Meandering-rivers)](https://aparis69.github.io/public_html/projects/paris2023_Meanders.html) |
+| 2025 | CVPRW | Proc-GS | [Proc-GS: Procedural Building Generation for City Assembly with 3D Gaussians](https://arxiv.org/abs/2412.07660) | [![link](https://img.shields.io/badge/Website-9cf)](https://city-super.github.io/procgs/) | [![GitHub](https://img.shields.io/github/stars/city-super/ProcGS?style=social)](https://github.com/city-super/ProcGS/) |
 
 ### Optimization-based Generation
 
@@ -113,6 +124,7 @@ To be updated.
 | 2024 | arXiv | CityCraft | [CityCraft: A Real Crafter for 3D City Generation](https://arxiv.org/abs/2406.04983) |  | [![GitHub](https://img.shields.io/github/stars/djFatNerd/CityCraft)](https://github.com/djFatNerd/CityCraft) |
 | 2024 | arXiv | CityX | [CityX: Controllable Procedural Content Generation for Unbounded 3D Cities](https://arxiv.org/abs/2407.17572) | [![link](https://img.shields.io/badge/Website-9cf)](https://cityx-lab.github.io/) | [![GitHub](https://img.shields.io/github/stars/cityx-lab/CityX-Lab)](https://github.com/cityx-lab/CityX-Lab) |
 | 2024 | arXiv | GraphCanvas3D | [Graph Canvas for Controllable 3D Scene Generation](https://arxiv.org/abs/2412.00091) |  |  |
+| 2024 | arXiv | UrbanWorld | [UrbanWorld: An Urban World Model for 3D City Generation](https://arxiv.org/abs/2407.11965) |  | [![GitHub](https://img.shields.io/github/stars/Urban-World/UrbanWorld)](https://github.com/Urban-World/UrbanWorld) |
 | 2025 | 3DV | 3D-GPT | [3D-GPT: Procedural 3D Modeling with Large Language Models](https://arxiv.org/abs/2310.12945) | [![link](https://img.shields.io/badge/Website-9cf)](https://chuny1.github.io/3DGPT/3dgpt.html) | [![GitHub](https://img.shields.io/github/stars/Chuny1/3DGPT)](https://github.com/Chuny1/3DGPT) |
 | 2025 | AAAI | SceneX | [SceneX: Procedural Controllable Large-scale Scene Generation](https://arxiv.org/abs/2403.15698) | [![link](https://img.shields.io/badge/Website-9cf)](https://zhouzq1.github.io/SceneX/) | [![GitHub](https://img.shields.io/github/stars/zhouzq1/SceneX)](https://github.com/zhouzq1/SceneX) |
 | 2025 | AAAI |  | [Hierarchically-Structured Open-Vocabulary Indoor Scene Synthesis with Pre-trained Large Language Model](https://arxiv.org/abs/2502.10675) |  | [![GitHub](https://img.shields.io/github/stars/SunWeiLin-Lynne/Hierarchically-Structured-Open-Vocabulary-Indoor-Scene-Synthesis)](https://github.com/SunWeiLin-Lynne/Hierarchically-Structured-Open-Vocabulary-Indoor-Scene-Synthesis) |
@@ -123,6 +135,8 @@ To be updated.
 | 2025 | arXiv | Cube | [Cube: A Roblox View of 3D Intelligence](https://arxiv.org/abs/2503.15475) |  | [![GitHub](https://img.shields.io/github/stars/Roblox/cube)](https://github.com/Roblox/cube) |
 | 2025 | arXiv | Scenethesis | [Scenethesis: A Language and Vision Agentic Framework for 3D Scene Generation](https://arxiv.org/abs/2505.02836) | [![link](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/scenethesis/) |  |
 | 2025 | arXiv |  | [Agentic 3D Scene Generation with Spatially Contextualized VLMs](https://arxiv.org/abs/2505.20129) |  |  |
+| 2025 | arXiv | ReSpace | [ReSpace: Text-Driven 3D Scene Synthesis and Editing with Preference Alignment](https://arxiv.org/abs/2506.02459) | [![link](https://img.shields.io/badge/Website-9cf)](https://respace.mnbucher.com/) | [![GitHub](https://img.shields.io/github/stars/GradientSpaces/respace)](https://github.com/GradientSpaces/respace) |
+| 2025 | arXiv | DirectLayout | [Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning](https://arxiv.org/abs/2506.05341) | [![link](https://img.shields.io/badge/Website-9cf)](https://directlayout.github.io/) | [![GitHub](https://img.shields.io/github/stars/rxjfighting/DirectLayout)](https://github.com/rxjfighting/DirectLayout) |
 
 ## Neural-3D Generation
 
@@ -179,6 +193,7 @@ To be updated.
 | 2024 | ECCV | EchoScene | [EchoScene: Indoor Scene Generation via Information Echo over Scene Graph Diffusion](https://arxiv.org/abs/2405.00915) | [![link](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/echoscene) | [![GitHub](https://img.shields.io/github/stars/ymxlzgy/echoscene)](https://github.com/ymxlzgy/echoscene) |
 | 2024 | ICLR | InstructScene | [InstructScene: Instruction-Driven 3D Indoor Scene Synthesis with Semantic Graph Prior](https://arxiv.org/abs/2402.04717) | [![link](https://img.shields.io/badge/Website-9cf)](https://chenguolin.github.io/projects/InstructScene/) | [![GitHub](https://img.shields.io/github/stars/chenguolin/InstructScene)](https://github.com/chenguolin/InstructScene) |
 | 2025 | AAAI | MMGDreamer | [MMGDreamer: Mixed-Modality Graph for Geometry-Controllable 3D Indoor Scene Generation](https://arxiv.org/abs/2502.05874) | [![link](https://img.shields.io/badge/Website-9cf)](https://yangzhifeio.github.io/project/MMGDreamer/) | [![GitHub](https://img.shields.io/github/stars/yangzhifeio/MMGDreamer?style=social)](https://github.com/yangzhifeio/MMGDreamer) |
+| 2025 | CVPR | FreeScene | [FreeScene: Mixed Graph Diffusion for 3D Scene Synthesis from Free Prompts](https://arxiv.org/abs/2506.02781) | [![link](https://img.shields.io/badge/Website-9cf)](https://cangmushui.github.io/FreeScene-io/) | [![GitHub](https://img.shields.io/github/stars/cangmushui/FreeScene)](https://github.com/cangmushui/FreeScene) |
 | 2025 | arXiv |  | [Controllable 3D Outdoor Scene Generation via Scene Graphs](https://arxiv.org/abs/2503.07152) |  | [![GitHub](https://img.shields.io/github/stars/yuhengliu02/control-3d-scene)](https://github.com/yuhengliu02/control-3d-scene) |
 | 2025 | arXiv | HiScene | [HiScene: Creating Hierarchical 3D Scenes with Isometric View Generation](https://arxiv.org/abs/2504.13072) | [![link](https://img.shields.io/badge/Website-9cf)](https://zju3dv.github.io/hiscene/) |  |
 
@@ -207,6 +222,7 @@ To be updated.
 | 2025 | ICLR | Layout-your-3D | [Layout-your-3D: Controllable and Precise 3D Generation with 2D Blueprint](https://arxiv.org/abs/2410.15391) | [![link](https://img.shields.io/badge/Website-9cf)](https://colezwhy.github.io/layoutyour3d/) | [![GitHub](https://img.shields.io/github/stars/Colezwhy/Layout-Your-3D)](https://github.com/Colezwhy/Layout-Your-3D) |
 | 2025 | arXiv | Layout2Scene | [Layout2Scene: 3D Semantic Layout Guided Scene Generation via Geometry and Appearance Diffusion Priors](https://arxiv.org/abs/2501.02519) |  |  |
 | 2025 | arXiv | CityDreamer4D | [CityDreamer4D: Compositional Generative Model of Unbounded 4D Cities](https://arxiv.org/abs/2501.08983) | [![link](https://img.shields.io/badge/Website-9cf)](https://haozhexie.com/project/city-dreamer-4d) | [![GitHub](https://img.shields.io/github/stars/hzxie/CityDreamer4D)](https://github.com/hzxie/CityDreamer4D) |
+| 2025 | arXiv | PrITTI | [PrITTI: Primitive-based Generation of Controllable and Editable 3D Semantic Scenes](https://arxiv.org/abs/2506.19117) | [![link](https://img.shields.io/badge/Website-9cf)](https://raniatze.github.io/pritti/) | [![GitHub](https://img.shields.io/github/stars/avg-dev/PrITTI)](https://github.com/avg-dev/PrITTI) |
 
 ### Implicit Layout
 
@@ -271,6 +287,8 @@ To be updated.
 | 2025 | ICLR | CubeDiff | [CubeDiff: Repurposing Diffusion-Based Image Models for Panorama Generation](https://arxiv.org/abs/2501.17162) | [![link](https://img.shields.io/badge/Website-9cf)](https://cubediff.github.io/) |  |
 | 2025 | SIGGRAPH | LayerPano3D | [LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation](https://arxiv.org/abs/2408.13252) | [![link](https://img.shields.io/badge/Website-9cf)](https://ys-imtech.github.io/projects/LayerPano3D/) | [![GitHub](https://img.shields.io/github/stars/3DTopia/LayerPano3D)](https://github.com/3DTopia/LayerPano3D) |
 | 2025 | arXiv |  | [A Recipe for Generating 3D Worlds From a Single Image](https://arxiv.org/abs/2503.16611) | [![link](https://img.shields.io/badge/Website-9cf)](https://katjaschwarz.github.io/worlds/) |  |
+| 2025 | arXiv | EmbodiedGen | [EmbodiedGen: Towards a Generative 3D World Engine for Embodied Intelligence](https://arxiv.org/abs/2506.10600) | [![link](https://img.shields.io/badge/Website-9cf)](https://horizonrobotics.github.io/robot_lab/embodied_gen/index.html) | [![GitHub](https://img.shields.io/github/stars/HorizonRobotics/EmbodiedGen)](https://github.com/HorizonRobotics/EmbodiedGen) |
+| 2025 | arXiv | ImmerseGen | [ImmerseGen: Agent-Guided Immersive World Generation with Alpha-Textured Proxies](https://arxiv.org/abs/2506.14315) | [![link](https://img.shields.io/badge/Website-9cf)](https://immersegen.github.io/) |  |
 
 ### Iterative Generation
 
@@ -334,6 +352,7 @@ To be updated.
 | 2024 | arXiv | PaintScene4D | [PaintScene4D: Consistent 4D Scene Generation from Text Prompts](https://arxiv.org/abs/2412.04471) | [![link](https://img.shields.io/badge/Website-9cf)](https://paintscene4d.github.io/) | [![GitHub](https://img.shields.io/github/stars/paintscene4d/paintscene4d.github.io)](https://github.com/paintscene4d/paintscene4d.github.io) |
 | 2025 | ICLR | GenXD | [GenXD: Generating Any 3D and 4D Scenes](https://arxiv.org/abs/2411.02319) | [![link](https://img.shields.io/badge/Website-9cf)](https://gen-x-d.github.io/) | [![GitHub](https://img.shields.io/github/stars/HeliosZhao/GenXD)](https://github.com/HeliosZhao/GenXD) |
 | 2025 | CVPR | StarGen | [StarGen: A Spatiotemporal Autoregression Framework with Video Diffusion Model for Scalable and Controllable Scene Generation](https://arxiv.org/abs/2501.05763) | [![link](https://img.shields.io/badge/Website-9cf)](https://zju3dv.github.io/StarGen/) | [![GitHub](https://img.shields.io/github/stars/zju3dv/StarGen)](https://github.com/zju3dv/StarGen) |
+| 2025 | TMM | DreamJourney | [DreamJourney: Perpetual View Generation with Video Diffusion Models](https://arxiv.org/abs/2506.17705) | [![link](https://img.shields.io/badge/Website-9cf)](https://dream-journey.vercel.app/) | [![GitHub](https://img.shields.io/github/stars/HiDream-ai/DreamJourney)](https://github.com/HiDream-ai/DreamJourney) |
 | 2025 | arXiv | Free4D | [Free4D: Tuning-free 4D Scene Generation with Spatial-Temporal Consistency](https://arxiv.org/abs/2503.20785) | [![link](https://img.shields.io/badge/Website-9cf)](https://free4d.github.io/) | [![GitHub](https://img.shields.io/github/stars/TQTQliu/Free4D)](https://github.com/TQTQliu/Free4D) |
 
 ### One-stage Generation
@@ -401,6 +420,12 @@ To be updated.
 | 2025 | arXiv | Matrix-Game | [Matrix-Game: Interactive World Foundation Model](https://github.com/SkyworkAI/Matrix-Game/raw/main/assets/report.pdf) | [![link](https://img.shields.io/badge/Website-9cf)](https://matrix-game-homepage.github.io/) | [![GitHub](https://img.shields.io/github/stars/SkyworkAI/Matrix-Game)](https://github.com/SkyworkAI/Matrix-Game) |
 | 2025 | arXiv | CoGen | [CoGen: 3D Consistent Video Generation via Adaptive Conditioning for Autonomous Driving](https://arxiv.org/abs/2503.22231) | [![link](https://img.shields.io/badge/Website-9cf)](https://xiaomi-research.github.io/cogen/) |  |
 | 2025 | arXiv | WonderPlay | [WonderPlay: Dynamic 3D Scene Generation from a Single Image and Actions](https://arxiv.org/abs/2505.18151) | [![link](https://img.shields.io/badge/Website-9cf)](https://kyleleey.github.io/WonderPlay/) |  |
+| 2025 | arXiv | Dreamland | [Dreamland: Controllable World Creation with Simulator and Generative Models](https://arxiv.org/abs/2506.08006) | [![link](https://img.shields.io/badge/Website-9cf)](https://metadriverse.github.io/dreamland/) |  |
+| 2025 | arXiv | Voyager | [Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation](https://arxiv.org/abs/2506.04225) |  |  |
+| 2025 | arXiv | Matrix-Game | [Matrix-Game: Interactive World Foundation Model](https://arxiv.org/abs/2506.18701) | [![link](https://img.shields.io/badge/Website-9cf)](https://matrix-game-homepage.github.io/) | [![GitHub](https://img.shields.io/github/stars/SkyworkAI/Matrix-Game)](https://github.com/SkyworkAI/Matrix-Game) |
+| 2025 | arXiv | Hunyuan-GameCraft | [Hunyuan-GameCraft: High-dynamic Interactive Game Video Generation with Hybrid History Condition](https://arxiv.org/abs/2506.17201) | [![link](https://img.shields.io/badge/Website-9cf)](https://hunyuan-gamecraft.github.io/) |  |
+| 2025 | arXiv | CoCo4D | [CoCo4D: Comprehensive and Complex 4D Scene Generation](https://arxiv.org/abs/2506.19798) | [![link](https://img.shields.io/badge/Website-9cf)](https://colezwhy.github.io/coco4d/) | [![GitHub](https://img.shields.io/github/stars/Colezwhy/CoCo4D-Gen)](https://github.com/Colezwhy/CoCo4D-Gen) |
+
 
 
 # Datasets
@@ -430,6 +455,7 @@ To be updated.
 | 2021 | Indoor | Synthetic | 3D-FRONT | [3D-FRONT: 3D Furnished Rooms with layOuts and semaNTics](https://arxiv.org/abs/2011.09127) | [![link](https://img.shields.io/badge/Website-9cf)](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-scene-dataset) |
 | 2021 | Indoor | Synthetic | 3D-Future | [3D-FUTURE: 3D Furniture shape with TextURE](https://arxiv.org/abs/2009.09633) | [![link](https://img.shields.io/badge/Website-9cf)](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-future) |
 | 2023 | Indoor | Synthetic | SG-FRONT | [CommonScenes: Generating Commonsense 3D Indoor Scenes with Scene Graph Diffusion](https://arxiv.org/abs/2305.16283) | [![link](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/commonscenes/dataset) |
+| 2025 | Indoor | Synthetic | SE(3) Scene | [Steerable Scene Generation with Post Training and Inference-Time Search](https://arxiv.org/abs/2505.04831) | [![link](https://img.shields.io/badge/Website-9cf)](https://steerable-scene-generation.github.io/) |
 
 ## Natural Datasets
 
