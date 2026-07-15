@@ -36,12 +36,14 @@ If you have suggestions for new resources, improvements to methodologies, or cor
   - [Indoor Datasets](#indoor-datasets)
   - [Natural Datasets](#natural-datasets)
   - [Urban Datasets](#urban-datasets)
-- [Applications and Tasks](#applications-and-tasks)
-  - [3D Scene Editing](#3d-scene-editing)
-  - [Human-Scene Interaction](#human-scene-interaction)
-  - [Embodied AI](#embodied-ai)
-  - [Robotics](#robotics)
-  - [Autonomous Driving](#autonomous-driving)
+- [Tasks and Applications](#tasks-and-applications)
+  - [Downstream Tasks](#downstream-tasks)
+    - [3D Scene Editing](#3d-scene-editing)
+    - [Human-Scene Interaction](#human-scene-interaction)
+    - [Embodied Navigation](#embodied-navigation)
+  - [Application Domains](#application-domains)
+    - [Robotics](#robotics)
+    - [Autonomous Driving](#autonomous-driving)
 
 # Methods: A Hierarchical Taxonomy
 
@@ -597,9 +599,11 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2020 | Urban | Synthetic | Virtual-KITTI-2 | [Virtual KITTI 2](https://arxiv.org/abs/2001.10773) | [![link](https://img.shields.io/badge/Website-9cf)](https://europe.naverlabs.com/research/proxy-virtual-worlds/) |
 | 2025 | Urban | Synthetic | CityTopia | [CityDreamer4D: Compositional Generative Model of Unbounded 4D Cities](https://arxiv.org/abs/2501.08983) | [![link](https://img.shields.io/badge/Website-9cf)](https://haozhexie.com/project/city-dreamer-4d) |
 
-# Applications and Tasks
+# Tasks and Applications
 
-## 3D Scene Editing
+## Downstream Tasks
+
+### 3D Scene Editing
 
 | Year | Venue | Acronym | Paper | Project | Repo@GitHub |
 |------|-------|---------|-------|---------|-------------|
@@ -628,7 +632,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 | CVPR | Catalyst4D | [Catalyst4D: High-Fidelity 3D-to-4D Scene Editing via Dynamic Propagation](https://arxiv.org/abs/2603.12766) | [![link](https://img.shields.io/badge/Website-9cf)](https://junliao2025.github.io/Catalyst4D-ProjectPage/) |  |
 | 2026 | CVPR | Edit-As-Act | [Edit-As-Act: Goal-Regressive Planning for Open-Vocabulary 3D Indoor Scene Editing](https://arxiv.org/abs/2603.17583) | [![link](https://img.shields.io/badge/Website-9cf)](https://seongraenoh.github.io/edit-as-act/) | [![GitHub](https://api.infinitescript.com/badgen/github?color=ff8800&repo=SeongRaeNoh/Edit-As-Act)](https://github.com/SeongRaeNoh/Edit-As-Act) |
 
-## Human-Scene Interaction
+### Human-Scene Interaction
 
 | Year | Venue | Acronym | Paper | Project | Repo@GitHub |
 |------|-------|---------|-------|---------|-------------|
@@ -647,7 +651,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | arXiv | Populate-A-Scene | [Populate-A-Scene: Affordance-Aware Human Video Generation](https://arxiv.org/abs/2507.00334) | [![link](https://img.shields.io/badge/Website-9cf)](https://shanmy.github.io/Populate-A-Scene) |  |
 
 
-## Embodied Navigation
+### Embodied Navigation
 
 | Year | Venue | Acronym | Paper | Project | Repo@GitHub |
 |------|-------|---------|-------|---------|-------------|
@@ -656,12 +660,16 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2024 | CVPR | PhyScene | [PhyScene: Physically Interactable 3D Scene Synthesis for Embodied AI](https://arxiv.org/abs/2404.09465) | [![link](https://img.shields.io/badge/Website-9cf)](https://physcene.github.io/) | [![GitHub](https://api.infinitescript.com/badgen/github?color=ff8800&repo=PhyScene/PhyScene)](https://github.com/PhyScene/PhyScene) |
 | 2024 | NeurIPS | Architect | [Architect: Generating Vivid and Interactive 3D Scenes with Hierarchical 2D Inpainting](https://arxiv.org/abs/2411.09823) | [![link](https://img.shields.io/badge/Website-9cf)](https://wangyian-me.github.io/Architect/) | [![GitHub](https://api.infinitescript.com/badgen/github?color=ff8800&repo=wangyian-me/architect_official_code)](https://github.com/wangyian-me/architect_official_code) |
 | 2025 | ICLR | MetaUrban | [MetaUrban: An Embodied AI Simulation Platform for Urban Micromobility](https://arxiv.org/abs/2407.08725) | [![link](https://img.shields.io/badge/Website-9cf)](https://metadriverse.github.io/metaurban/) | [![GitHub](https://api.infinitescript.com/badgen/github?color=ff8800&repo=metadriverse/metaurban)](https://github.com/metadriverse/metaurban) |
+| 2025 | CVPR | URBAN-SIM | [Towards Autonomous Micromobility through Scalable Urban Simulation](https://arxiv.org/abs/2505.00690) | [![link](https://img.shields.io/badge/Website-9cf)](https://metadriverse.github.io/urbansim/) | [![GitHub](https://api.infinitescript.com/badgen/github?color=ff8800&repo=metadriverse/urban-sim)](https://github.com/metadriverse/urban-sim) |
 | 2024 | arXiv | GRUtopia | [GRUtopia: Dream General Robots in a City at Scale](https://arxiv.org/abs/2407.10943) | [![link](https://img.shields.io/badge/Website-9cf)](https://grutopia.github.io/) | [![GitHub](https://api.infinitescript.com/badgen/github?color=ff8800&repo=OpenRobotLab/GRUtopia)](https://github.com/OpenRobotLab/GRUtopia) |
 | 2024 | arXiv | EmbodiedCity | [EmbodiedCity: A Benchmark Platform for Embodied Agent in Real-world City Environment](https://arxiv.org/abs/2410.09604) | [![link](https://img.shields.io/badge/Website-9cf)](https://embodied-city.fiblab.net/) | [![GitHub](https://api.infinitescript.com/badgen/github?color=ff8800&repo=tsinghua-fib-lab/EmbodiedCity)](https://github.com/tsinghua-fib-lab/EmbodiedCity) |
+| 2024 | arXiv | InfiniteWorld | [InfiniteWorld: A Unified Scalable Simulation Framework for General Visual-Language Robot Interaction](https://arxiv.org/abs/2412.05789) |  | [![GitHub](https://api.infinitescript.com/badgen/github?color=ff8800&repo=pzhren/InfiniteWorld)](https://github.com/pzhren/InfiniteWorld) |
 | 2026 | arXiv | MANSION | [MANSION: Multi-floor lANguage-to-3D Scene generatIOn for loNg-horizon tasks](https://arxiv.org/abs/2603.11554) | [![link](https://img.shields.io/badge/Website-9cf)](https://agibotgeneral.github.io/mansion-site/) | [![GitHub](https://api.infinitescript.com/badgen/github?color=ff8800&repo=AgibotGeneral/MANSION)](https://github.com/AgibotGeneral/MANSION) |
 | 2026 | arXiv | SAGE | [SAGE: Scalable Agentic 3D Scene Generation for Embodied AI](https://arxiv.org/abs/2602.10116) | [![link](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/sage/) | [![GitHub](https://api.infinitescript.com/badgen/github?color=ff8800&repo=NVlabs/sage)](https://github.com/NVlabs/sage) |
 
-## Robotics
+## Application Domains
+
+### Robotics
 
 | Year | Venue | Acronym | Paper | Project | Repo@GitHub |
 |------|-------|---------|-------|---------|-------------|
@@ -677,8 +685,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | ICLR | SlowFast-VGen | [SlowFast-VGen: Slow-Fast Learning for Action-Driven Long Video Generation](https://arxiv.org/abs/2410.23277) | [![link](https://img.shields.io/badge/Website-9cf)](https://slowfast-vgen.github.io/) | [![GitHub](https://api.infinitescript.com/badgen/github?color=ff8800&repo=slowfast-vgen/slowfast-vgen)](https://github.com/slowfast-vgen/slowfast-vgen) |
 | 2025 | ICLR | ReGen | [ReGen: Generative Robot Simulation via Inverse Design](https://arxiv.org/abs/2511.04769) | [![link](https://img.shields.io/badge/Website-9cf)](https://regen-sim.github.io/) |  |
 | 2025 | ICML | Video Prediction Policy | [Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations](https://arxiv.org/abs/2412.14803) | [![link](https://img.shields.io/badge/Website-9cf)](https://video-prediction-policy.github.io/) | [![GitHub](https://api.infinitescript.com/badgen/github?color=ff8800&repo=roboterax/video-prediction-policy)](https://github.com/roboterax/video-prediction-policy) |
+| 2025 | RSS | RoboVerse | [RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning](https://arxiv.org/abs/2504.18904) | [![link](https://img.shields.io/badge/Website-9cf)](https://roboverseorg.github.io/) | [![GitHub](https://api.infinitescript.com/badgen/github?color=ff8800&repo=RoboVerseOrg/RoboVerse)](https://github.com/RoboVerseOrg/RoboVerse) |
 | 2024 | arXiv | GR-2 | [GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation](https://arxiv.org/abs/2410.06158) | [![link](https://img.shields.io/badge/Website-9cf)](https://gr2-manipulation.github.io/) |  |
-| 2024 | arXiv | InfiniteWorld | [InfiniteWorld: A Unified Scalable Simulation Framework for General Visual-Language Robot Interaction](https://arxiv.org/abs/2412.05789) |  | [![GitHub](https://api.infinitescript.com/badgen/github?color=ff8800&repo=pzhren/InfiniteWorld)](https://github.com/pzhren/InfiniteWorld) |
 | 2025 | arXiv | VideoWorld | [VideoWorld: Exploring Knowledge Learning from Unlabeled Videos](https://arxiv.org/abs/2501.09781) | [![link](https://img.shields.io/badge/Website-9cf)](https://maverickren.github.io/VideoWorld.github.io/) | [![GitHub](https://api.infinitescript.com/badgen/github?color=ff8800&repo=ByteDance-Seed/VideoWorld)](https://github.com/ByteDance-Seed/VideoWorld) |
 | 2025 | arXiv | Cosmos-Transfer1 | [Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control](https://arxiv.org/abs/2503.14492) | [![link](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/cosmos-transfer1/) | [![GitHub](https://api.infinitescript.com/badgen/github?color=ff8800&repo=nvidia-cosmos/cosmos-transfer1)](https://github.com/nvidia-cosmos/cosmos-transfer1) |
 | 2025 | arXiv | TesserAct | [TesserAct: Learning 4D Embodied World Models](https://arxiv.org/abs/2504.20995) | [![link](https://img.shields.io/badge/Website-9cf)](https://tesseractworld.github.io/) | [![GitHub](https://api.infinitescript.com/badgen/github?color=ff8800&repo=UMass-Embodied-AGI/TesserAct)](https://github.com/UMass-Embodied-AGI/TesserAct) |
@@ -688,7 +696,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 | arXiv | SimFoundry | [SimFoundry: Modular and Automated Scene Generation for Policy Learning and Evaluation](https://arxiv.org/abs/2606.28276) | [![link](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/gear/simfoundry/) |  |
 | 2026 | arXiv | RoboSnap | [RoboSnap: One-Shot Real-to-Sim Scene Generation for Generalizable Robot Learning and Evaluation](https://arxiv.org/abs/2607.06699) | [![link](https://img.shields.io/badge/Website-9cf)](https://robosnap.github.io/) | [![GitHub](https://api.infinitescript.com/badgen/github?color=ff8800&repo=robosnap/robosnap)](https://github.com/robosnap/robosnap) |
 
-## Autonomous Driving
+### Autonomous Driving
 
 | Year | Venue | Acronym | Paper | Project | Repo@GitHub |
 |------|-------|---------|-------|---------|-------------|
